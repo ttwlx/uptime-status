@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'XMAC站点检测系统',
+  SiteName: 'C-VPS站点检测系统',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
