@@ -23,6 +23,10 @@ window.Config = {
       url: 'https://www.xmac.im/'
     },
     {
+      text: '在线工具箱',
+      url: 'https://tool.xmac.im/'
+    },
+    {
       text: 'V5导航',
       url: 'https://www.va5.cn'
     },
