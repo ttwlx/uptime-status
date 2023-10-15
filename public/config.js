@@ -19,15 +19,15 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
+      text: 'XMAC.IM',
       url: 'https://www.xmac.im/'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      text: 'V5导航',
+      url: 'https://www.va5.cn'
     },
     {
-      text: 'Blog',
+      text: '软件达人',
       url: 'https://rjdr.net/'
     },
   ],
