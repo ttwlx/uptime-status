@@ -22,6 +22,11 @@ window.Config = {
       text: 'XMAC.IM',
       url: 'https://www.xmac.im/'
     },
+     {
+      text: 'UpTime官方监控',
+      url: 'https://stats.uptimerobot.com/MPm99hxkvZ'
+    },
+    
     {
       text: '在线工具箱',
       url: 'https://tool.xmac.im/'
