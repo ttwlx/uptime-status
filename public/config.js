@@ -23,7 +23,7 @@ window.Config = {
       url: 'https://www.xmac.im/'
     },
      {
-      text: 'UpTime官方监控',
+      text: 'UpTime官方监控（twsinacn）',
       url: 'https://stats.uptimerobot.com/MPm99hxkvZ'
     },
     
